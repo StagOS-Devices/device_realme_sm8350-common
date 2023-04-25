@@ -166,10 +166,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OplusDolby
 
-# Doze
-PRODUCT_PACKAGES += \
-    OplusDoze
-
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.3.vendor \
