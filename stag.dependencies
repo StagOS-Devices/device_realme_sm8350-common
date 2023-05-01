@@ -11,5 +11,10 @@
     "repository": "vendor_realme_sm8350-common",
     "target_path": "vendor/realme/sm8350-common",
     "remote": "gitlab-stag"
+  },
+  {
+    "repository": "vendor_oplus_camera",
+    "target_path": "vendor/oplus/camera",
+    "remote": "gitlab-stag"
   }
 ]
