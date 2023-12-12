@@ -8,6 +8,10 @@
     "target_path": "kernel/realme/sm8350"
   },
   {
+    "repository"  : "packages_apps_OPlusExtras",
+    "target_path" : "packages/apps/OPlusExtras"
+  },
+  {
     "repository": "vendor_realme_sm8350-common",
     "target_path": "vendor/realme/sm8350-common",
     "remote": "gitlab-stag"
