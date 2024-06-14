@@ -107,6 +107,9 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.2-service
 
 # Camera
+PRODUCT_PACKAGES += \
+    libutilscallstack.vendor
+
 $(call inherit-product-if-exists, vendor/oplus/camera/opluscamera.mk)
 
 PRODUCT_PACKAGES += \
